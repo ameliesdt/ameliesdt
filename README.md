@@ -1,13 +1,11 @@
-<h1>Hello friend, this is Amelie</h1>
+<h1>Hello friend,  this is Amelie</h1>
 <h3>a junior frontend developer to be (bootcamp @ <a href="https://www.super-code.de/">super-code</a>)</h3>
 
-<br>
 
 - 🔭 I’m currently working on **Single-page design portfolio @ <a href="www.frontendmentor.io">frontendmentor.io</a>**
 
 - 🌱 I’m currently learning **JavaScript**
 
-<br>
 
 <p align="center">
 </p>
