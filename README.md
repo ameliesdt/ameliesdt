@@ -2,8 +2,6 @@
 <h3>a junior frontend developer to be (bootcamp @ <a href="https://www.super-code.de/">super-code</a>)</h3>
 
 
-- 🔭 I’m currently working on **Single-page design portfolio @ <a href="www.frontendmentor.io">frontendmentor.io</a>**
-
 - 🌱 I’m currently learning   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 
