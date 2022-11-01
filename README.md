@@ -15,11 +15,3 @@ This is Amelie. A Junior Frontend Developer and happy to learn new things about 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
-<br/>
-<br/>
-
-<div align="right">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amelie-schmidt-30a7b5195/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
