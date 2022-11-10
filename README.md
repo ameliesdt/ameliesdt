@@ -14,4 +14,10 @@ This is Amelie. A Junior Frontend Developer and happy to learn new things about 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
+<br/>
+<br/>
+
+check out the final react-project from the frontend bootcamp @supercode:
+
+https://comforting-bombolone-f53d32.netlify.app/
 
