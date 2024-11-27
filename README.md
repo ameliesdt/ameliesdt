@@ -1,5 +1,5 @@
-# <ins><div align="center">Hello Friend.
-This is Amelie. A Junior Frontend Developer and happy to learn new things about tech and myself everyday. </div></ins>  
+# <div>
+This is Amelie. A Junior Frontend Developer happy to learn new things about tech and myself everyday. </div>
   
 
 
@@ -18,7 +18,4 @@ This is Amelie. A Junior Frontend Developer and happy to learn new things about 
 <br/>
 <br/>
 
-check out the final react-project from the frontend bootcamp @supercode:
-
-https://comforting-bombolone-f53d32.netlify.app/
 
